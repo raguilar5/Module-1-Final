@@ -1,0 +1,16 @@
+.col {
+    background-color: rgb(37, 92, 164);
+    color: rgb(20, 15, 120);
+    padding: 20px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    margin: 10px;
+    font-size: 24px;
+  }
+  .hero{
+    height: 45vh;
+  }
+  .info, .other{
+    height: 20vh;
+  }
